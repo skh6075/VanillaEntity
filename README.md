@@ -1,2 +1,13 @@
 # VanillaEntity
 [Plugin] It embodies Vanilla Minecraft's animals, monsters.
+
+
+## Realizations
+
+### Chicken [Animal]
+ * [x] AI.
+ * [x] Crossbreeding.
+ * [x] seduction of seed item.
+ * [x] moveSpeed.
+ * [ ] changed wound moveSpeed.
+ * [ ] attack wound.
