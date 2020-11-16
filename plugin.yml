@@ -1,6 +1,5 @@
-name: VanillaEntity
-main: skh6075\vanillaentity\VanillaEntity
+name: VanillaEntities
+main: skh6075\vanillaentities\VanillaEntities
 author: AvasKr
-api: 3.10.0
 version: 1.0.0
-website: https://github.com/GodVas
+api: [4.0.0]
