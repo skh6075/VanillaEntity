@@ -24,19 +24,6 @@ class VanillaEntities extends PluginBase{
     }
 
     protected function onEnable(): void{
-        $this->getServer()
-            ->getPluginManager()
-            ->registerEvents(new class () implements Listener{
-
-
-                public function onJoin(PlayerJoinEvent $event): void{
-                    $player = $event->getPlayer();
-
-                    $nbt = EntityDataHelper::createBaseNBT($player->getPosition()->asVector3());
-                    $entity = new Sheep($player->getLocation());
-                    $entity->spawnToAll();
-                }
-            }, $this);
     }
 
 
