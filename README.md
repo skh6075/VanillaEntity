@@ -9,5 +9,5 @@
  * [x] Crossbreeding.
  * [x] seduction of seed item.
  * [x] moveSpeed.
- * [ ] changed wound moveSpeed.
- * [ ] attack wound.
+ * [x] changed wound moveSpeed.
+ * [x] attack wound.
